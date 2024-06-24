@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(216, 57, 84) !important;
+}
+
+main {
+    text-align: center;
+}
+
+header {
+    background-color: pink;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 25px;
+}
+
+header h1 {
+    color: #000;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 10px;
+    font-weight: bolder;
+}
+
+.wrapper-1 {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    padding: 50px; 
+    margin: 15px;
+    background-color: #000;
+    border-radius: 20px;
+}
+
+.wrapper-1 .card {
+    background-color: pink;
+    margin-right: 20px;
+}
+
+.wrapper-2 {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    padding: 50px; 
+    margin: 15px;
+    background-color: #000;
+    border-radius: 20px;
+}
+
+.wrapper-2 .card {
+    background-color: pink;
+    margin-right: 20px;
+}
+
+.wrapper-3 {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    padding: 50px; 
+    margin: 15px;
+    background-color: #000;
+    border-radius: 20px;
+}
+
+.wrapper-3 .card {
+    background-color: pink;
+    margin-right: 20px;
+}
+
+.card h5 {
+    font-weight: bolder;
+}
+
+audio {
+    margin-left: -10px;
+    padding-right: 50px;
+}
+
+footer {
+    background-color: pink;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 100px;
+}
+
+footer p {
+    color: #000;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 10px;  
+}
